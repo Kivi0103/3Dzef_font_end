@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "Daoliti";
+  font-weight: 800;
+  src: url("BNiRvfVScHOD.woff2") format("woff2"),
+  url("BNiRvfVScHOD.woff") format("woff");
+  font-display: swap;
+}
